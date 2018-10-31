@@ -21,6 +21,9 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+//https://makeagif.com/gif/skeletor-running-PMVtaa
+//NYAH!
+
 public class Login extends Application {
 
     @Override
